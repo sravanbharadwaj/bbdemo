@@ -1,5 +1,5 @@
 {
-  "name": "bbycasre",
+  "name": "bbdemo",
   "version": "1.0.0",
   "description": "Devops Assignment",
   "main": "bestbuy.ca.js",
@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denhsu/bbycaSRE.git"
+    "url": "git+https://github.com/sravanbharadwaj/bbdemo.git"
   },
   "keywords": [
     "devops"
   ],
-  "author": "denhsu",
+  "author": "sravan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/denhsu/bbycaSRE/issues"
+    "url": "https://github.com/sravanbharadwaj/bbdemo/issues"
   },
-  "homepage": "https://github.com/denhsu/bbycaSRE#readme"
+  "homepage": "https://github.com/sravanbharadwaj/bbdemo#readme"
 }
