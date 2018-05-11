@@ -16,7 +16,6 @@ var routes = require('./routes/routes.js');
 
 app.set('port', process.env.PORT || 5000);
 
-process.env.ENV='DEV';
 
 switch (process.env.ENV){
    case 'DEV': 
