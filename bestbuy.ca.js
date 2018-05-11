@@ -14,8 +14,8 @@ app.set('view engine', 'ejs');
 
 var routes = require('./routes/routes.js');
 
-app.set('port', process.env.PORT || 8000);
-
+app.set('port', process.env.PORT || 5000);
+process.env.ENV='DEV';
 switch (process.env.ENV){
    case 'DEV': 
 	msg = 'Unleash the power of our people'
